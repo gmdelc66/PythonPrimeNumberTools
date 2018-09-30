@@ -1,6 +1,8 @@
 from math import sqrt
 def factorize(myNumber, checkPowers = True):
 
+  # All the comments will be translated to English in the near future
+  
   # Kommer att innehålla primfaktorerna till myNumber
   # Om powers = True, så innehåller den alla förekomster
   # av respektive enskild faktor (fullständig faktorisering).
